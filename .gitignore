@@ -1,0 +1,19 @@
+﻿# Entornos
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Datos crudos
+data/raw/
+
+# Modelos y resultados pesados
+results/checkpoints/
+results/models/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Sistema
+.DS_Store
