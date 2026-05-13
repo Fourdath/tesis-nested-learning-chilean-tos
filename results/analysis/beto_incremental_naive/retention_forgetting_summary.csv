@@ -1,0 +1,4 @@
+task_id,task_name,initial_micro_f1,final_micro_f1,micro_absolute_drop,micro_relative_drop_percent,micro_forgetting_best_to_final,initial_macro_f1,final_macro_f1,macro_absolute_drop,macro_relative_drop_percent,macro_forgetting_best_to_final
+1,illegal,0.6734,0.3383,0.3351,49.7556,0.3351,0.3248,0.2644,0.0604,18.5997,0.1644
+2,dark,0.7722,0.7640,0.0082,1.0562,0.0082,0.4301,0.4563,-0.0262,-6.0931,0.0000
+3,gray,0.7085,0.7085,0.0000,0.0000,0.0000,0.5347,0.5347,0.0000,0.0000,0.0000

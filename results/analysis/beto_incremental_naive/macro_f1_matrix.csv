@@ -1,0 +1,4 @@
+after_training,eval_task_1_illegal,eval_task_2_dark,eval_task_3_gray
+Task 1 (illegal),0.3248,,
+Task 2 (dark),0.4288,0.4301,
+Task 3 (gray),0.2644,0.4563,0.5347
